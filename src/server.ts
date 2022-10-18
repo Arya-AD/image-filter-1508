@@ -44,8 +44,6 @@ app.get('/filteredimage', async (req: Request, res: Response) => {
 
 });
 
-
-
   //! END @TODO1
   
   // Root Endpoint
